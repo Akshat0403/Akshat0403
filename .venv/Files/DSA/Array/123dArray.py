@@ -1,4 +1,5 @@
 #1D Array
+# This array has beeen ammended
 array1 = [10, 20, 30, 40, 50]
 
 #2D Array
